@@ -59,7 +59,7 @@
 
 ## 📘 开发者指南
 如需深入了解适配器内部逻辑或学习如何开发新的插件，请查阅根目录下的：
-[OpenCLI_Developer_Guide.md](../OpenCLI_Developer_Guide.md)
+[OpenCLI_Developer_Guide.md](./OpenCLI_Developer_Guide.md)
 
 ---
 
