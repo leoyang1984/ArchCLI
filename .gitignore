@@ -1,0 +1,9 @@
+# 内部任务文档
+OpenCLI_设计平台Adapter_开发任务_v0.1.md
+
+# macOS 系统文件
+.DS_Store
+
+# 开发依赖
+node_modules/
+dist/node_modules/
